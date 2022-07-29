@@ -23,7 +23,7 @@ align-items: center;
 }
 
 .nav_li:not(:first-of-type){
-    margin: 49px;
+    margin-left: 49px;
 }
 
 .nav_link{
