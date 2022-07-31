@@ -151,7 +151,7 @@ align-items: center;
 
 .item{
     width: 330px;
-    background-color: #F8F8F8;
+    background-color: #e6e0e0;
     text-align: center;
     padding: 34px 0 27px;
     margin-left: 40px;
@@ -202,7 +202,7 @@ align-items: center;
 }
 
 .button_item{
-    width: 285px;
+    width: 220px;
     background: white;
     color: #5454D4;
     margin-top: 36px;
@@ -212,8 +212,4 @@ align-items: center;
     background: #9F3919;
     color: #FFFFFF;
     transition: 500ms;
-}
-
-.plan_flex{
-
 }
